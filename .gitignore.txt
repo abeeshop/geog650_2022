@@ -1,0 +1,4 @@
+#ignore all the .tif files in folders
+*.tif
+*inputs
+*outputs
