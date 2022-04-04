@@ -6,3 +6,7 @@
 *images
 *jar
 *.txt
+* cleaning
+*code_diaries
+*.gitattributes
+*ipynb_checkpoints
