@@ -2,5 +2,7 @@
 *.tif
 *inputs
 *outputs
-
-
+*final_code
+*images
+*jar
+*.txt
